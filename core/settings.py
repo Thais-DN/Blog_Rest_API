@@ -67,7 +67,7 @@ CORS_ALLOWED_ORIGINS = [
     # O dominio pelo qual pode consumir dados da minha API
     "http://localhost:8080",
     "http://127.0.0.1:9000",
-    "http://127.0.0.1:8000",
+    "http://127.0.0.1:8001",
 ]
 
 
